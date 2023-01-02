@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Customization
-nav_order: 6
+title: Home
+layout: home
 ---
 
 # Customization
